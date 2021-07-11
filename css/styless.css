@@ -1,0 +1,95 @@
+body{
+    background-image: url(https://www.888casino.es/blog/sites/newblog.888casino.es/files/2020-09/Como-Jugar-a-los-Dados.jpg);
+    background-repeat: eje;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+h1{
+    font-size: 5rem;
+    color: white;
+}
+.dados{
+    background-color: rgb(19, 12, 12);
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dado{
+    background-color: rgb(19, 12, 12);
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.circulo{
+    background-color: white;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0.2rem;
+}
+.caja1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+.caja2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    justify-content: flex-end;
+    
+}
+.caja3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.caja4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.caja5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-end;
+}
+.caja6{
+   display: flex; 
+   flex-wrap: wrap;
+   justify-content: flex-start;
+}
+.caja7{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.caja8{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.caja9{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.caja10{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
